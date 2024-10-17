@@ -1,0 +1,1 @@
+web: gunicorn coricular.wsgi --log-file -
